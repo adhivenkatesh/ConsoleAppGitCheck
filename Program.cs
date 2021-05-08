@@ -6,7 +6,7 @@ namespace ConsoleAppGitCheck
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World change from MODIFIED BRANCH from branch 2");
+            Console.WriteLine("Hello World change from MODIFIED BRANCH from branch-TWO");
         }
     }
 }
