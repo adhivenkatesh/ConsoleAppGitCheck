@@ -7,8 +7,8 @@ namespace ConsoleAppGitCheck
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World change from MODIFIED -Data from develop-0");
-
-            Console.WriteLine("Branch7 changes done from github"  );
+            Console.WriteLine("Branch7 changes done from github1"  );
+            Console.WriteLine("Branch7 changes done from github0"  );
         }
     }
 }
