@@ -6,7 +6,7 @@ namespace ConsoleAppGitCheck
     {
         static void Main(string[] args)
         {
-            //sample changes from git
+            //code changes in the branch  -Develop7-BrachCreatedFromLocalMaster
             Console.WriteLine("Hello World change from MODIFIED -Data from develop-0");
             Console.WriteLine("Branch7 changes done from github4"  );
             Console.WriteLine("Branch7 changes done from github3"  );
