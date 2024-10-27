@@ -8,7 +8,7 @@ namespace ConsoleAppGitCheck
         {
             Console.WriteLine("Hello World change from MODIFIED -Data from develop-0");
 
-            Console.WriteLine("from branch 5.." );
+            Console.WriteLine("from branch 5..." );
         }
     }
 }
